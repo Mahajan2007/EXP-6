@@ -19,6 +19,11 @@ I. Connect the multimeter at the output of kit..
 
 OBSERVATION TABLE
 
+<img width="1322" height="780" alt="image" src="https://github.com/user-attachments/assets/ebe7b722-7552-4dc1-ada5-90dd670bef53" />
+
+<img width="1324" height="771" alt="image" src="https://github.com/user-attachments/assets/658bebb8-eda8-4c3c-95f0-95372c7c0ee8" />
+
+
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
